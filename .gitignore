@@ -1,0 +1,14 @@
+# 编译产物走 GitHub Releases，绝不进 git 历史
+*.apk
+*.aab
+
+# 签名私钥：任何情况下都不许提交
+*.jks
+*.keystore
+*.p12
+*.pfx
+
+# 系统杂项
+.DS_Store
+Thumbs.db
+desktop.ini
