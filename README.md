@@ -21,9 +21,9 @@
 https://github.com/starring-ai-sec/shouping/releases/latest/download/shouping-release.apk
 ```
 
-- 版本：`v0.1.0`（测试版，签名证书为本机自建）
-- 大小：15.85 MB
-- SHA-256：`ffb2f23cc2b24e4703a0dea3984c8271c1d6e255a52a8bb4b5259e6869488453`
+- 版本：`v0.1.1`（测试版，签名证书为本机自建）
+- 大小：15.86 MB
+- SHA-256：`4fca513ec9b91c988f9d2727469f90194e9815d7ea3f0618ca40de307ab967a0`
 
 **下载后请先校验**（可选，但建议）：
 
@@ -165,4 +165,4 @@ A：见「已知限制」第 2 条。
 - 免费使用，无广告、无内购、无统计上报；
 - 请勿用于绕过付费内容、破解、或任何违反目标应用服务条款的用途。
 
-<p align="right"><sub>守屏 v0.1.0 · 2026-11</sub></p>
+<p align="right"><sub>守屏 v0.1.1 · 2026-11</sub></p>
